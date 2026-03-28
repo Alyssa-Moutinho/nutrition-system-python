@@ -55,6 +55,7 @@ TMB = 66 + (13.7 × peso) + (5 × altura_cm) - (6.8 × idade)
 1. Clone o repositório
 2. Acesse a pasta do projeto
 3. Execute o arquivo no terminal
+
 python app_nutrition.py
 
 ## Objetivo do projeto
